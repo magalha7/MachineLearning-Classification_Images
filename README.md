@@ -26,7 +26,7 @@ $pip install keras
 8) Mxnet
 $ pip install mxnet
 
-############################################################################################################################
+################################################################################################
 
 PRIMEIRO PASSO:
 
@@ -40,6 +40,6 @@ Executar o script para testar a rede após ela ter sido treinada.
 
 $ python test_network.py --model "nome do seu modelo de saida".model --image img_tests/"nome da imagem".jpg
 
-#############################################################################################################################
+##############################################################################################
 
 OBS: O primeiro passo demora devido ao tamanho da base para treinamento
